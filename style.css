@@ -1,0 +1,98 @@
+body {
+    background-color: cornflowerblue;
+    color: white;
+    font-size: 18px;
+  }
+  .main {
+    opacity: 150%;
+    color: black;
+    background-color: crimson;
+    text-align: center;
+  
+    font-family: "Jacquard 24", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .h3div {
+    color: black;
+    background-color: crimson;
+    height: 20px;
+  }
+
+  header {
+    background-color: black;
+    color: black;
+    height: 51px;
+    width: 100%;
+  }
+
+  .color {
+    top: 20px;
+    border-radius: 36px;
+    left: 587px;
+    position: relative;
+    width: 115px;
+    background-color: indianred;
+    height: 34px;
+    text-align: center;
+    color: black;
+    
+  }
+
+  .fontsize {
+    left: 587px;
+    position: relative;
+    rotate: 50deg;
+    animation-duration: -51s;
+    background-color: coral;
+    width: 80px;
+    font-size: 2rem;
+    height: 80x;
+    font-size: 2rem;
+    text-align: center;
+    border: inset;
+    border-radius: 20px;
+
+  }
+
+  .fontweight {
+    text-align: center;
+    font-weight: 900;
+
+
+  }
+  .fontfamily {
+    left: 587px;
+    position: relative;
+    rotate: 50deg;
+    animation-duration: -51s;
+    background-color: coral;
+    width: 111px;
+    font-size: 2rem;
+    height: 80x;
+    font-size: 2rem;
+    text-align: center;
+    border: inset;
+    border-radius: 20px;
+
+
+  }
+
+  .textalign {
+
+    left: 587px;
+    position: relative;
+    rotate: 50deg;
+    animation-duration: -51s;
+    background-color: coral;
+    width: 80px;
+    font-size: 2rem;
+    height: 80x;
+    font-size: 2rem;
+    text-align: center;
+    border: inset;
+    border-radius: 20px;
+
+
+
+  }
